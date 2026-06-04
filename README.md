@@ -1,18 +1,18 @@
 # Legal Operations Digital Transformation Toolkit
 
-## Project Overview
+## 📌 Project Overview
 
 This repository contains a simulated Legal Operations transformation project designed to demonstrate practical understanding of legal service delivery, process improvement, workflow automation, KPI reporting, stakeholder self-service, and low-code/no-code solution design.
 
 The project focuses on improving how legal requests are received, prioritized, tracked, automated, and reported across an organization.
 
-## Project Scenario
+## 🏢 Project Scenario
 
 A growing fintech-style company receives a high volume of legal and compliance-related requests from internal teams. These requests include contract reviews, data protection questions, vendor documentation, compliance policy support, debt collection process queries, and customer communication reviews.
 
 The current process is largely manual, email-based, and difficult to track. This project proposes a structured Legal Operations solution using digital intake forms, workflow automation, KPI dashboards, stakeholder training, and continuous improvement principles.
 
-## Project Objectives
+## 🎯 Project Objectives
 
 - Create a standardized legal request intake process
 - Improve transparency across legal service delivery
@@ -42,8 +42,7 @@ I hold a **Global MBA in Project Management** and am currently transitioning tow
 
 This project was created as a **simulated portfolio project** to demonstrate how an operations mindset can support Legal, IT, and business teams in reducing manual work, improving transparency, and making legal services easier to access across an organization.
 
-
-## Key Deliverables
+## 📦 Key Deliverables
 
 | Area | Deliverable |
 |---|---|
@@ -58,7 +57,8 @@ This project was created as a **simulated portfolio project** to demonstrate how
 | Change Management | Change Management Plan |
 | UX / Legal Design | Legal Request Form UX Design |
 
-## Project Modules
+## 🧩 Project Modules
+
 
 | Module | What It Demonstrates | Deliverable |
 |---|---|---|
