@@ -1,0 +1,11 @@
+Request_ID,Request_Type,Business_Unit,Priority,Status,SLA_Days,Actual_Days,SLA_Met
+LREQ-001,Contract Review,Sales,High,Closed,2,2,Yes
+LREQ-002,GDPR Question,Marketing,Medium,Closed,5,4,Yes
+LREQ-003,Vendor Agreement,Procurement,Medium,Open,5,6,No
+LREQ-004,Debt Collection Process,Operations,High,Closed,2,3,No
+LREQ-005,Compliance Policy,Finance,Low,Closed,7,5,Yes
+LREQ-006,Customer Communication,Customer Service,Medium,Open,5,3,Yes
+LREQ-007,General Legal Guidance,HR,Low,Closed,7,2,Yes
+LREQ-008,Contract Review,Sales,Medium,Closed,5,4,Yes
+LREQ-009,GDPR Question,Operations,High,Open,2,1,Yes
+LREQ-010,Vendor Documentation,Procurement,Medium,Closed,5,7,No
