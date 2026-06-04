@@ -21,6 +21,27 @@ The current process is largely manual, email-based, and difficult to track. This
 - Support business teams through digital self-service tools
 - Improve collaboration between Legal, IT, Operations, and business stakeholders
 - Apply process improvement and change management methods
+ 
+## 👋 About Me
+
+Hi, I’m **Joshi** — an Operations and Project Support professional based in **Berlin, Germany** 🇩🇪.
+
+I have **3 years of experience** working in fast-paced, multi-stakeholder operations environments, where I supported workflow reliability, KPI visibility, SOP documentation, escalation tracking, and cross-functional coordination.
+
+At **Flink GmbH**, I supported daily operations across two Berlin hubs handling **700–1,000 daily orders**, working closely with teams across operations, riders, customer support, and internal stakeholders.
+
+I hold a **Global MBA in Project Management** and am currently transitioning toward **Legal Operations**, with a strong interest in how legal teams can improve service delivery through:
+
+* ⚙️ Workflow automation
+* 📊 KPI dashboards and reporting
+* 🧾 Structured legal request intake
+* 🔄 Process improvement
+* 🤝 Stakeholder self-service
+* 🧩 Legal design and user-friendly workflows
+* 🚀 Scalable service delivery
+
+This project was created as a **simulated portfolio project** to demonstrate how an operations mindset can support Legal, IT, and business teams in reducing manual work, improving transparency, and making legal services easier to access across an organization.
+
 
 ## Key Deliverables
 
