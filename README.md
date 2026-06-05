@@ -30,7 +30,7 @@ I have **3 years of experience** working in fast-paced, multi-stakeholder operat
 
 At **Flink GmbH**, I supported daily operations across two Berlin hubs handling **700–1,000 daily orders**, working closely with teams across operations, riders, customer support, and internal stakeholders.
 
-I hold a **Global MBA in Project Management** and am currently transitioning toward **Legal Operations**, with a strong interest in how legal teams can improve service delivery through:
+I hold a **Global MBA in Project Management** and am currently transitioning toward **Fintech - Operations**, with a strong interest in how teams can improve service delivery through:
 
 * ⚙️ Workflow automation
 * 📊 KPI dashboards and reporting
